@@ -1,0 +1,13 @@
+name = "Flags That Represent"
+filename = "flags_that_represent-10.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MIyTCev5/versions/fQ2eoTBC/flags_that_represent-10.1.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d6b09f9c64e5bcc9a112c4602347b70d7ae94a4c8ad1b44cc1ee91829b3973ba4249c67f030c8ab0880efe9ef973c0072d1cb29a624e4987c46f2c7e06f69dea"
+
+[update]
+[update.modrinth]
+mod-id = "MIyTCev5"
+version = "fQ2eoTBC"

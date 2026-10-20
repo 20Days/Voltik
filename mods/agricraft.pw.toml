@@ -1,0 +1,13 @@
+name = "AgriCraft"
+filename = "AgriCraft-forge-1.20.1-4.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cMppH5SJ/versions/qXNjK6M2/AgriCraft-forge-1.20.1-4.0.6.jar"
+hash-format = "sha512"
+hash = "1034134cb19573ffad685a5826cf9230dd56914a3daa023d26d6a70ffe758fe829c99b029d5549c9dbec611b8de3efd8898a2e875afabda9aaee0b5e803b408b"
+
+[update]
+[update.modrinth]
+mod-id = "cMppH5SJ"
+version = "qXNjK6M2"

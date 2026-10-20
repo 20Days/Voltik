@@ -1,0 +1,13 @@
+name = "Voltik"
+author = "20Days"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4870f971a4d0613ddd11c5e1847014a6a661cd2e1d2d55f37c436fee1f5c7771"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"

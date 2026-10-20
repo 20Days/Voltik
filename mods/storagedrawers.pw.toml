@@ -1,0 +1,13 @@
+name = "Storage Drawers"
+filename = "StorageDrawers-forge-1.20.1-12.15.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/guitPqEi/versions/FideBiKZ/StorageDrawers-forge-1.20.1-12.15.0.jar"
+hash-format = "sha512"
+hash = "f9b2ca9442ba4b90ccf76a2e1cc8fdbff94a7de0576eef59636552565ea91cce23e55cd349c37a13c3e719799857795d4a721f39fcc3dc990e0c4dc82b9591b7"
+
+[update]
+[update.modrinth]
+mod-id = "guitPqEi"
+version = "FideBiKZ"

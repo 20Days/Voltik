@@ -1,0 +1,13 @@
+name = "PastlandsGolf"
+filename = "pastlandsgolf-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e9d516780a74fe809f093af3a263e0101aff9ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7893553
+project-id = 1408593

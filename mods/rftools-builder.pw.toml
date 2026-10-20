@@ -1,0 +1,13 @@
+name = "RFTools Builder"
+filename = "rftoolsbuilder-1.20-6.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01ef833c8fdde002024b2118132e499f6fd9477e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8704382
+project-id = 347706

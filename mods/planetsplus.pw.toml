@@ -1,0 +1,13 @@
+name = "Ad Astra: Planets+"
+filename = "planets+-bv1.7.5-1.20x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NfrID7Y9/versions/joMq8m0L/planets%2B-bv1.7.5-1.20x.jar"
+hash-format = "sha512"
+hash = "3da825c9b4ba2f57c301e55ffdfc0dddf3c9956572fbba2e8adf88420c39d5d60eda552499cb4b0faf3e00e3f9817c39d06966716e5a9ca4f43b18eb298d9a67"
+
+[update]
+[update.modrinth]
+mod-id = "NfrID7Y9"
+version = "joMq8m0L"

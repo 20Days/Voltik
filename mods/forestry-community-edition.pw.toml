@@ -1,0 +1,13 @@
+name = "Forestry: CE"
+filename = "forestry-1.20.1-2.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2oORTOi2/versions/Kn060AGr/forestry-1.20.1-2.11.1.jar"
+hash-format = "sha512"
+hash = "4c8fdaa5e4922e5320f7e5e9e1336d946a65cdefb07f51607ce117e9eab24a825343c3e37b590ace11d7ebb2a7925093b155f80623db6345582eb92b795a368c"
+
+[update]
+[update.modrinth]
+mod-id = "2oORTOi2"
+version = "Kn060AGr"
