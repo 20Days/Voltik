@@ -1,6 +1,6 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-3.3.3-1.20.1-fabric-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/6UnEfsRQ/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar"
@@ -11,3 +11,8 @@ hash = "2ac0a2fd34fe17bb3a3764bb53838f00595998a7e0b4bd70c5068aa9244626c6b0e622af
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "6UnEfsRQ"
+
+[option]
+optional = true
+default = false
+description = "Distant Horizons: renders far-away terrain as low-detail LODs. Heavy on GPU/RAM; leave off unless your PC can take it."
