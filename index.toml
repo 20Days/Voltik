@@ -360,5 +360,5 @@ hash = "c906ced020f34952105f7a77cab5a546cc0bf643885656fad3b76b5788a1b5f2"
 metafile = true
 
 [[files]]
-file = "mods/villagerslavery-1.9.2.jar"
-hash = "ab903cc59805d2fac2da374f8700e1bf33255d67e4a6b9f9306d3dfa6d13814d"
+file = "mods/villagerslavery-1.12.2.jar"
+hash = "687eabb0e814d2859b160269b90bb2d3998ba54681907b0f0b0029f8c8900b1d"
